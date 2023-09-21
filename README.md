@@ -6,7 +6,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Project Links
 
-- Solution URL:
+- Solution URL: https://github.com/coderSeth13/FEM_QR_CODE_COMPONENT.git
 - Live Site URL:
 
 #### Social Links
