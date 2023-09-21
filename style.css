@@ -11,7 +11,7 @@
   --clr-secondary-200: hsl(var(--clr-secondary-hsl-200));
   --clr-secondary-900: hsl(var(--clr-secondary-hsl-900));
 
-  --ff-primary: ;
+  --ff-primary: "Outfit", sans-serif;
 
   --fw-regular: 400;
   --fw-bold: 700;
@@ -26,8 +26,8 @@
 
   /* Tokens */
 
-  --clr-bg-body: var(--clr-primary-100);
-  --clr-body: var(--clr-secondary-200);
+  --clr-bg-body: var(--clr-secondary-200);
+  --clr-body: var(--clr-secondary-900);
   --clr-bg-card: var(--clr-primary-100);
   --clr-heading: var(--clr-secondary-900);
 
@@ -92,7 +92,7 @@ body {
   border-radius: var(--size-300);
   padding: var(--size-300);
   box-shadow: 0.5rem 1rem 5rem hsl(var(--clr-secondary-hsl-200), 0.5);
-  max-width: 22rem;
+  max-width: 20rem;
 }
 
 .card img {
@@ -122,7 +122,7 @@ body {
 }
 
 p[data-max-width] {
-  max-width: 30ch;
+  max-width: 25ch;
 }
 
 [data-low-opacity] {
