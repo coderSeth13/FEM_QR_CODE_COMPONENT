@@ -11,9 +11,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 #### Social Links
 
-- Frontend Mentor:
-- LinkedIn:
-- Github:
+- Frontend Mentor: https://www.frontendmentor.io/profile/coderSeth13
+- LinkedIn: 
+- Github: 
 - Twitter:
 - Instagram:
 
